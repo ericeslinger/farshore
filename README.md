@@ -1,3 +1,4 @@
 # farshore
 
-[[wilderness]]
+[wilderness rules](wilderness)
+[town rules](town)
