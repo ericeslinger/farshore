@@ -1,8 +1,11 @@
-# Hexcrawl Mechanics
+# Wilderness Mechanics
 
 A hexcrawl is an extended overland adventure in which the PCs explore a large map with many unknown elements. Generally speaking, exploring each hex takes some time and will trigger certain events.
 
-5e has bafflingly inconsistent overland travel and exploration rules, so what follows is a mashup of many editions, plus just what works for me as a GM.
+5e has bafflingly inconsistent overland travel and exploration rules, so what follows is a mashup of many editions and OGL content from [The Alexandrian](https://thealexandrian.net/), plus just what works for me as a GM.
+
+## Player Knowledge
+In general, the players will have a rough idea where they are on the master map. Each hex on the master map is about 12 miles across. The hexes themselves may be somewhat mysterious and fuzzy, since you may get lost, and it is a little anticlimactic to know you will get exactly one encounter per quantum of space. So: treat the hexes as a rough guideline.
 
 ## Time
 Each day is broken into 6 watch periods (4 hours each). There are three types of primary activity during a watch: Rest, Active, Travel.
@@ -76,12 +79,12 @@ Characters can forage during an active watch or while traveling at a slow pace. 
 ### Navigating
 If the party is not following a well-known trail (or tracking something, see below), they are blazing a new trail. Make a Navigation check against the modified terrain DC.
 
-* Natural 1
-* Fail by more than 5
-* Fail
-* Succeed
-* Succeed by more than 5
-* Natural 20
+* Natural 1: You're lost and something tragic has happened.
+* Fail by 5 or more: You just wasted 4 hours walking in circles. 
+* Fail: Move at half speed in the correct direction.
+* Succeed: Move at normal speed in the correct direction.
+* Succeed by more than 5: Move at normal speed in the correct direction, with advantage on forage checks.
+* Natural 20: The above, plus something pretty great.
 
 The party can have at most one navigator, who makes navigation checks while moving, or can make additional navigation checks during an active watch to better pinpoint their location. A secondary navigator can assist, giving advantage on these checks using the Aid Another rules.
 
