@@ -59,33 +59,38 @@ Each building has a description, effects, and cost.  Unless otherwise noted, al
 
 ### Housing
 
+The Farshore expedition will start in tents, some large, some single-person. The tents are not a long-term solution (between material breakdown and leaks), permanent housing needs to be built before the winter.
+
 **Longhouse / Communal Building**: This is a basic dormitory that can house up to 40 people. Living here keeps the rain off, but there's little privacy. Medium foundation, 4 units wood, 16 units work. People housed in Communal housing for too long end up with low morale.
 
-**Plain House**: Plain old house for a single family (5 people). Three rooms, fireplace, outhouse. Nothing special. Small foundation, 2 units wood, 10 unit work. Improves work ratio.
+**Apartments**: More privacy than a bunkhouse, but still rather dense living. Large foundation, 8 wood, 24 work. Houses 40 commoners.
 
-**Improved House**: This isn't a manor house, but it's pretty nice. Small foundation, 3 units wood, 15 units work. Can be an improvement on Plain House for 1 unit wood, 6 units work.
+**Plain House**: Plain old house for a family. Three rooms, fireplace, outhouse. Nothing special. Small foundation, 2 units wood, 10 unit work. Required for skilled workers (who will lose morale if they live in apartments).
+
+**Improved House**: This isn't a manor house, but it's pretty nice. Small foundation, 3 units wood, 15 units work. Can be an improvement on Plain House for 1 unit wood, 6 units work. Required for Specialists, who will lose morale if they live in lesser homes.
 
 ### Common Buildings
-**Town Hall**
+**Town Hall**: Center of town governance, must be built before any other organization can occur. 
 
 **Warehouse**: Can convert up to 50 units of food from gathered food to preserved and stored. Large foundation, 9 wood, 12 work.
 
 **Market**: Area for many small stalls where people can sell wares. No foundation required. 5 wood, 3 work. Reduces work ratio. Produces 1 unit of food per week.
 
-**Tavern**: +2 morale. Large foundation, 8 units wood, 12 units work. 5 food/week upkeep.
-
 ### Skilled Worker Buildings
 
-**Barracks**: Supports 2 units of Town Guard. Helps town defense. Medium foundation, 5 wood, 1 stone, 6 work.
+**Barracks**: Supports and houses 2 units of Town Guard. Helps town defense. Medium foundation, 5 wood, 1 stone, 6 work.
+
+**Tavern**: +2 morale. Large foundation, 8 units wood, 12 units work. 5 food/week upkeep. Requires one unit of skilled labor to maintain.
+
 
 ### Specialist Buildings
 **NOTE**: Each specialist building requires an improved house for the specialist and their family to live in.
 
-**Blacksmith**: Prerequisite to other buildings. +1 efficiency to up to four units of construction work per day. Small foundation, 2 units wood, 10 units work.
+**Blacksmith**: Prerequisite to other buildings. +1 efficiency to up to four units of construction work per day. Small foundation, 2 units wood, 10 units work. Upkeep: 1 metal per week.
 
-**Grain Mill**: Converts grain into flour. Requires water location. +1 morale to the town. Medium foundation, 3 wood, 1 stone, 10 work. Stone and 4 work can be skipped if the millstone is recovered from Farshore. 
+**Grain Mill**: Converts grain into flour. Requires water location. +1 morale to the town. Medium foundation, 3 wood, 1 stone, 10 work.
 
-**Baker**: Generates 1 unit of food per week. +1 morale. Requires grain mill. 4 units wood, 8 units work. Small house
+**Baker**: Generates 1 unit of food per week. +1 morale. Requires grain mill. 4 units wood, 8 units work.
 
 **Fisherman**: Provides a fisherman with a boat and nets to work the river. Provides 1 unit of food per week. 4 units wood, 10 work.
 
@@ -93,23 +98,23 @@ Each building has a description, effects, and cost.  Unless otherwise noted, al
 
 **Wondrous Emporium**: sets up a magic item craftsman. Improves work ratio (potions, etc), and can create one magic item for sale each month. PCs can make requests (otherwise it is random), but do have to pay list price. 4 wood, 2 stone, small foundation, 20 work.
 
-**Miscellaneous Craftsperson**: Goldsmith, Toymaker, etc. +1 morale, Small Foundation, 3 units wood, 4 units work.
+**Miscellaneous Craftsperson**: Goldsmith, Toymaker, etc. +1 morale, Small Foundation, 3 units wood, 4 units work. Wood / metal upkeep.
 
 ### Holy Buildings
 
-Shrine: A holy shrine to a single god or goddess. +1 morale. Requires a level 1 cleric.  Small foundation, 3 wood. 15 work.
+**Shrine**: A holy shrine to a single god or goddess. +1 morale. Requires an improved house for the specialist (cleric) and their retinue.  Small foundation, 3 wood. 15 work.
 
-Chapel: Must be an upgrade to a shrine. Additional +1 morale, improves work ratio, heals 1 sidelined work group per day. 1 stone, 4 wood, 20 work.
+**Chapel**: Must be an upgrade to a shrine. Additional +1 morale, improves work ratio, heals 1 sidelined work group per day. 1 stone, 4 wood, 20 work.
 
-Church: Must be an upgrade to a chapel. Additional +2 morale, improves work ratio. Heals 2 sidelined work groups per day. Generates 1 food unit per week. 10 stone, 50 work.
+**Church**: Must be an upgrade to a chapel. Additional +2 morale, improves work ratio. Heals 2 sidelined work groups per day. Generates 1 food unit per week. 10 stone, 50 work.
+
 
 Other Interesting Buildings
 
-Farm: Reduces work ratio. Generates 1 unit of food per week. Requires cleared farmland. 10 wood, 3 stone, 30 work. Also includes housing for 10.
+**Farm**: Generates 1 unit of food per week. Requires cleared farmland. 10 wood, 3 stone, 30 work. Upkeep: 1 unit skilled labor, but includes housing for same.
 
-Sawmill: Must be located on the water. Requires either blacksmith or recovered sawmill blades from farshore. +2 efficiency to up to four units of lumbering work per day. Large foundation. 7 units wood, 15 units work. 
+**Sawmill**: Must be located on the water. +2 efficiency to up to four units of lumbering work per day. Large foundation. 7 units wood, 15 units work. 
 
+**Quarry**: Can be worked by up to three crews for one unit of stone each per day. Must build a road to the location. Ruins may be quarried for stone, or so can fresh stone be cut (usually in the mountains)
 
-Quarry: Can be worked by up to three crews for one unit of stone each per day. 16 units work cutting a road to the mountains and finding a reasonable location.
-
-Road: 2 units work per mile. Assumed to use wood and other materials locally sourced, so no materials needed. Upgrading roads is possible, but requires stone and wood.
+**Road**: 2 units work per mile. Assumed to use wood and other materials locally sourced, so no materials needed. Upgrading roads is possible, but requires stone and wood.
