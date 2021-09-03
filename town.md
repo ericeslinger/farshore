@@ -109,7 +109,7 @@ The Farshore expedition will start in tents, some large, some single-person. The
 **Church**: Must be an upgrade to a chapel. Additional +2 morale, improves work ratio. Heals 2 sidelined work groups per day. Generates 1 food unit per week. 10 stone, 50 work.
 
 
-Other Interesting Buildings
+### Other Interesting Buildings
 
 **Farm**: Generates 1 unit of food per week. Requires cleared farmland. 10 wood, 3 stone, 30 work. Upkeep: 1 unit skilled labor, but includes housing for same.
 
